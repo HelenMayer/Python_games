@@ -1,1 +1,1 @@
-# Python_games
+# Writing simples games using python for developing Python's skill
